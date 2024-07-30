@@ -1,4 +1,4 @@
-## Hi there my name is Jasmine 
+## Hi there my name is Jasmine, an IT Professional 
 
 <!--
 **Jazz2117/Jazz2117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
